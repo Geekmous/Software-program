@@ -1,6 +1,6 @@
 # Software-program
 两步移动搜索法  
-输入：服务设施数据{S_1,S_2,…,S_n}（如服务设施的服务能力值）和居名点数据{C_1,C_2,…,C_m}（如居民人数）
+输入：服务设施数据<a href="https://www.codecogs.com/eqnedit.php?latex=$\{S_1,&space;S_2,&space;S_3...,&space;S_n&space;\}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$\{S_1,&space;S_2,&space;S_3...,&space;S_n&space;\}$" title="$\{S_1, S_2, S_3..., S_n \}$" /></a>（如服务设施的服务能力值）和居名点数据{C_1,C_2,…,C_m}（如居民人数）
 输出：居民点的可达性
 计算方法：
 （1）给定一个空间距离阈值d_0，对于每一个服务设施计算服务设施的供需比：
